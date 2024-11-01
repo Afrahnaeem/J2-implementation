@@ -1,1 +1,5 @@
 # J2-implementation
+
+we develop a novel theft detection model with twofold contribution. A unique hybrid sampling technique named as hybrid oversampling and undersampling using both classes (HOUBC) is proposed to balance the dataset. HOUBC first performs undersampling and then oversampling using both the majority (normal) and minority (theft) classes.
+A new deep learning method, fractal network is applied with light gradient boosting method to extract and learn important characteristics from electricity consumption profiles for identifying electricity thieves. 
+The proposed model relies on smart meter's data for theft detection and hence, a rapid and widespread adaption of this model is feasible, which shows its main advantage. The performance of the model is evaluated with real-world smart meter's data, i.e., state grid corporation of China. Comprehensive simulation results describe the effectiveness of the proposed model against conventional schemes in terms of electricity theft detection.
